@@ -1,5 +1,5 @@
 {
-  "name": "favicons-webpack-plugin",
+  "name": "favicons-webpack-plugin-ico-fix",
   "version": "5.0.2",
   "description": "Let webpack generate all your favicons and icons for you",
   "main": "src/index.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jantimon/favicons-webpack-plugin.git"
+    "url": "https://github.com/Codypinto23/favicons-webpack-plugin-ico-fix"
   },
   "keywords": [
     "webpack",
@@ -50,7 +50,7 @@
     "cz-conventional-changelog": "3.0.2",
     "diffable-html": "4.0.0",
     "eslint": "^6.8.0",
-    "favicons": "^6.2.0",
+    "favicons-ico-fix": "^6.3.2",
     "fs-extra": "^8.1.0",
     "get-folder-size": "2.0.1",
     "html-webpack-plugin": "5.2.0",

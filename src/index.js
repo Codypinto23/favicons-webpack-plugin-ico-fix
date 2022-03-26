@@ -557,7 +557,7 @@ function getHtmlWebpackPluginVersion() {
  */
 function loadFaviconsLibrary() {
   try {
-    return require('favicons');
+    return require('favicons-ico-fix');
   } catch (e) {
     throw new Error(
       `Could not find the npm peerDependency "favicons".\nPlease run:\nnpm i favicons\n - or -\nyarn add favicons\n\n${String(

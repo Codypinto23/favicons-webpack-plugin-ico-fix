@@ -1,6 +1,7 @@
 /coverage/
 /.nyc_output/
 /.vscode/
+.idea*
 /example/**/public/
 **/.cache/
 **/node_modules/
